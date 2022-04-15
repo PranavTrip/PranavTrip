@@ -12,8 +12,8 @@
 
 ## I'm a Student, Undergraduate, Developer, and Learner!
 
-- 🔭 I’m currently working on DSA!
-- 🌱 I’m currently learning WebDev(Java)
+- 🔭 I’m currently working on DSA using Java!
+- 🌱 I’m currently brushing up my Development skills
 - 📖 Core Team Member @Devs'Street : A community with 500+ active members!
 - 👯 I’m looking to collaborate for hackathons and projects.
 - 🎤 Looking for opportunities to manage and host events as well!
