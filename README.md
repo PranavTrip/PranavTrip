@@ -23,14 +23,14 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Pranav | LinkedIn" height="40px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Pranav | Twitter" height="40px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Pranav | GitHub" height="40px" src="./SocialLogo/GitHub.png" />][github]
-[<img align="left" alt="Pranav | Medium" height="40px" src="./SocialLogo/Discord.png" />][discord]
-[<img align="left" alt="Pranav | Whatsapp" height="40px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Pranav | Telegram" height="40px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="Pranav | Instagram" height="40px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="Pranav | Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
+[<img align="left" alt="Pranav | LinkedIn" height="30px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Pranav | Twitter" height="30px" src="./SocialLogo/Twitter.png" />][twitter]
+[<img align="left" alt="Pranav | GitHub" height="30px" src="./SocialLogo/GitHub.png" />][github]
+[<img align="left" alt="Pranav | Medium" height="30px" src="./SocialLogo/Discord.png" />][discord]
+[<img align="left" alt="Pranav | Whatsapp" height="30px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="Pranav | Telegram" height="30px" src="./SocialLogo/Telegram.png" />][telegram]
+[<img align="left" alt="Pranav | Instagram" height="30px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Pranav | Gmail" height="30px" src="./SocialLogo/Gmail.png" />][gmail]
 
 <br/>
 <br/>
