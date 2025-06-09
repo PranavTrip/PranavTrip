@@ -74,7 +74,7 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="sass" width="40" height="40"/> </a> 
 <br />
 
- [![Pranav's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=PranavTrip&theme=xcode)](https://git.io/PranavTrip)
+Pranav's Github Activity Graph
 ---
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PranavTrip&show_icons=true&theme=radical" />
