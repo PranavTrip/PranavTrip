@@ -24,10 +24,10 @@
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [<img align="left" alt="Pranav | LinkedIn" height="20px" src="./SocialLogo/LinkedIn.png" width="20px" />][linkedin]
-[<img align="left" alt="Pranav | GitHub" height="20px" src="./SocialLogo/GitHub.png" />][github]
-[<img align="left" alt="Pranav | Whatsapp" height="20px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Pranav | Instagram" height="20px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="Pranav | Gmail" height="20px" src="./SocialLogo/Gmail.png" />][gmail]
+[<img align="left" alt="Pranav | GitHub" height="20px" src="./SocialLogo/GitHub.png" width="20px" />][github]
+[<img align="left" alt="Pranav | Whatsapp" height="20px" src="./SocialLogo/WhatsApp.png" width="20px" />][whatsapp]
+[<img align="left" alt="Pranav | Instagram" height="20px" src="./SocialLogo/Instagram.png" width="20px" />][instagram]
+[<img align="left" alt="Pranav | Gmail" height="20px" src="./SocialLogo/Gmail.png" width="20px" />][gmail]
 
 <br/>
 <br/>
