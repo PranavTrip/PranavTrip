@@ -81,6 +81,10 @@ Pranav's Github Activity Graph
 </p>
  
  ---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavTrip&theme=rogue" />
+</p>
  
 <h2 align="left">Sad Day? Let me get a smile on your face :wink:</h2>
 <p align="left">
